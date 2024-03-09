@@ -6,6 +6,7 @@ This web application allows users to search for recipes based on ingredients or 
 Details:
 
 1.Frontend:
+
 -User interface created using HTML, CSS, and JavaScript for searching and displaying recipes.
 
 -Search input field for entering ingredients or keywords.
