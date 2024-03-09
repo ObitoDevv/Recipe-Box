@@ -55,7 +55,7 @@ Unique Features:-
 
 Instructions:
 
--Sign up for an account.
+-Sign up for an account. (Open index.html)
 
 -Log in to the website using your credentials.
 
