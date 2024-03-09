@@ -56,3 +56,5 @@ Instructions:
 -Wait for the loading indicator while the application fetches recipe data.
 
 -View the search results, including recipe name, ingredients, and a link to the full recipe.
+
+Tech Stack :- HTML , CSS , JAVASCRIPT , API(EDAMAM)
