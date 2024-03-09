@@ -3,6 +3,21 @@ Project Name : RECIPE BOX
 Description:
 This web application allows users to search for recipes based on ingredients or keywords and displays the results. It integrates with a public recipe API 'EDAMAM' to fetch recipe data and presents it in an organized manner.
 
+Instructions:
+
+-Sign up for an account. (Open index.html)
+
+-Log in to the website using your credentials.
+
+-Use the search feature to find recipes based on ingredients or keywords.
+
+-Enter ingredients or keywords and click the search button.
+
+-Wait for the loading indicator while the application fetches recipe data.
+
+-View the search results, including recipe name, ingredients, and a link to the full recipe.
+
+Tech Stack :- HTML , CSS , JAVASCRIPT , API(EDAMAM)
 Details:
 
 1.Frontend:
@@ -53,18 +68,4 @@ Unique Features:-
 
 -Enhanced styling and design for improved visual appeal.
 
-Instructions:
 
--Sign up for an account. (Open index.html)
-
--Log in to the website using your credentials.
-
--Use the search feature to find recipes based on ingredients or keywords.
-
--Enter ingredients or keywords and click the search button.
-
--Wait for the loading indicator while the application fetches recipe data.
-
--View the search results, including recipe name, ingredients, and a link to the full recipe.
-
-Tech Stack :- HTML , CSS , JAVASCRIPT , API(EDAMAM)
