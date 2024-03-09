@@ -46,8 +46,13 @@ Unique Features:-
 Instructions:
 
 -Sign up for an account.
+
 -Log in to the website using your credentials.
+
 -Use the search feature to find recipes based on ingredients or keywords.
+
 -Enter ingredients or keywords and click the search button.
+
 -Wait for the loading indicator while the application fetches recipe data.
+
 -View the search results, including recipe name, ingredients, and a link to the full recipe.
