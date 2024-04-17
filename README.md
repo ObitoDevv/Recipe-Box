@@ -1,6 +1,6 @@
-Project Name : RECIPE BOX
+# RECIPE BOX
 
-Instructions:
+# Instructions:
 
 -Sign up for an account. (Open index.html)
 
@@ -17,7 +17,7 @@ Instructions:
 Tech Stack :- HTML , CSS , JAVASCRIPT , API(EDAMAM)
 
 
-Details:
+# Details:
 
 1.Frontend:
 
@@ -59,7 +59,7 @@ Details:
 
 -Cross-browser compatibility testing on different web browsers.
 
-Unique Features:-
+# Unique Features:-
 
 -Login/Singup of user authentication using browser storage.
 
